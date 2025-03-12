@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Matheus+Jr;I'm+19+years+old;I'm+a+Full+Stack+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Matheus+Jr;I'm+20+years+old;I'm+a+Full+Stack+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 <p align="center"><br>👨‍💻Systems analysis and development student passionate about technologies.</br></p>&nbsp;
 
 <br>
